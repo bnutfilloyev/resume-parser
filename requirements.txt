@@ -1,4 +1,9 @@
-motor~=2.5.1
+motor==3.0.0
 aiogram~=2.20
 environs~=9.5.0
 pydantic~=1.9.0
+numpy
+nltk
+spacy
+pyresparser
+#
